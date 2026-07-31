@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" aria-labelledby="title description"
+  viewBox="0 0 512 512">
+  <title id="title">Awesome Calculators logo</title>
+  <desc id="description">A dark calculator with a screen reading 999.99 and a three-by-four keypad.</desc>
+  <defs>
+    <linearGradient id="body" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#202938" />
+      <stop offset="1" stop-color="#111827" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="#f3f4f6" rx="112" />
+  <rect width="304" height="400" x="104" y="56" fill="url(#body)" rx="48" />
+  <rect width="240" height="96" x="136" y="92" fill="#d1fae5" rx="20" /><text x="352" y="154" fill="#047857"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="43" font-weight="700"
+    text-anchor="end">999.99</text>
+  <g fill="#f9fafb">
+    <rect width="68" height="42" x="140" y="210" rx="12" />
+    <rect width="68" height="42" x="222" y="210" rx="12" />
+    <rect width="68" height="42" x="304" y="210" rx="12" />
+    <rect width="68" height="42" x="140" y="266" rx="12" />
+    <rect width="68" height="42" x="222" y="266" rx="12" />
+    <rect width="68" height="42" x="304" y="266" rx="12" />
+    <rect width="68" height="42" x="140" y="322" rx="12" />
+    <rect width="68" height="42" x="222" y="322" rx="12" />
+    <rect width="68" height="42" x="304" y="322" rx="12" />
+  </g>
+  <rect width="68" height="42" x="140" y="378" fill="#f59e0b" rx="12" />
+  <rect width="68" height="42" x="222" y="378" fill="#f59e0b" rx="12" />
+  <rect width="68" height="42" x="304" y="378" fill="#34d399" rx="12" />
+  <g fill="#111827" dominant-baseline="central" font-family="ui-rounded, system-ui, sans-serif" font-size="26"
+    font-weight="700" text-anchor="middle"><text x="174" y="231">7</text><text x="256" y="231">8</text><text x="338"
+      y="231">9</text><text x="174" y="287">4</text><text x="256" y="287">5</text><text x="338" y="287">6</text><text
+      x="174" y="343">1</text><text x="256" y="343">2</text><text x="338" y="343">3</text><text x="174"
+      y="399">+</text><text x="256" y="399">−</text><text x="338" y="399">=</text></g>
+</svg>

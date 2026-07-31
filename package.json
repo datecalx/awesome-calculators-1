@@ -1,0 +1,13 @@
+{
+  "name": "awesome-calculators",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "check-links": "node scripts/check-links.mjs",
+    "test": "awesome-lint",
+    "test:local": "node scripts/lint-local.mjs"
+  },
+  "devDependencies": {
+    "awesome-lint": "2.3.0"
+  }
+}
