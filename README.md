@@ -97,6 +97,7 @@ Software and web services for numeric, financial, engineering, health, conversio
 - [NHS BMI Calculator](https://www.nhs.uk/health-assessment-tools/calculate-your-body-mass-index/) - Interprets adult and child BMI, with guidance that takes account of age, sex, activity level, and ethnicity where relevant. `Web` `UK` · **Price:** Free · **License:** Proprietary.
 - [NHS Heart Age Calculator](https://www.nhs.uk/health-assessment-tools/calculate-your-heart-age) - Compares heart age with chronological age for eligible adults and suggests ways to reduce risk. `Web` `UK` · **Price:** Free · **License:** [GPL-3.0](https://github.com/BritCardSoc/JBS3Risk) · **Source:** [GitHub](https://github.com/BritCardSoc/JBS3Risk).
 - [NIDDK Body Weight Planner](https://www.niddk.nih.gov/bwp) - Models how changes in calories and physical activity affect the time needed to reach and maintain an adult weight goal. `Web` · **Price:** Free · **License:** Proprietary.
+- [Nutilz OSHA Noise Exposure Calculator](https://nutilz.com/noise-exposure-calculator) - Calculates OSHA noise dose and 8-hour time-weighted average from up to 10 sources at different dBA levels and durations, checking compliance against the 85 dBA Action Level and 90 dBA PEL under 29 CFR 1910.95. `Web` · **Price:** Free · **License:** Proprietary.
 - [PediTools](https://www.peditools.org/) - Provides pediatric growth, bilirubin, gestational-age, parenteral-nutrition, blood-pressure, and critical-care calculators. `Web` `US` · **Price:** Free · **License:** Proprietary.
 
 ### Developer Tools
